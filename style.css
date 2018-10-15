@@ -1,0 +1,25 @@
+@font-face {
+    font-family:"game_font";
+    src:url("Font.ttf");
+}
+
+body {
+  background-color:#000000;
+}
+canvas {
+    position: absolute;
+    border: 2px solid #FFFFFF;
+    top:0;
+    bottom:0;
+    right:0;
+    left:0;
+    margin:auto;    
+
+}
+h6 {
+    padding: 0px;
+    margin: 0px;
+    font-family: Helvetica;
+    font-size: 120%;
+    user-select: none;
+}
